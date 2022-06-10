@@ -3,6 +3,7 @@
 
 void firstDerivate();
 void secondDeriatve();
+void nthDerivate();
 
 void firstDerivate() {
 	printf("Calcuating First Derivate");
@@ -10,4 +11,8 @@ void firstDerivate() {
 
 void secondDerivate() {
 	printf("Calcuating Second Derivate");
+}
+
+void nthDerivate() {
+	printf("Calcuating Nth Derivate");
 }
